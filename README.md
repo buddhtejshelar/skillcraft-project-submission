@@ -1,4 +1,4 @@
- # SkillCraft Technology - Data Science Internship
+# SkillCraft Technology - Data Science Internship
 
 This repository contains my completed tasks for my 1-month virtual data science internship. It showcases my data cleaning, analysis, and machine learning skills using Python.
 
@@ -21,9 +21,14 @@ This repository contains my completed tasks for my 1-month virtual data science 
 * **Tools Used:** `scikit-learn`, `pandas`, `matplotlib`
 * **Status:** Completed ✅
 
+### 🚗 Task 04: Traffic Accident Data Analysis
+* **Objective:** Analyzed patterns in traffic accident data across weather metrics, road safety types, and time-of-day distributions to uncover hidden risk factors and primary structural hotspots.
+* **Tools Used:** `pandas`, `matplotlib`, `seaborn`, `numpy`
+* **Status:** Completed ✅
+
 ---
 
 ## 🛠️ Tech Stack & Libraries
 * **Language:** Python
 * **Environment:** Google Colab
-* **Libraries:** Scikit-Learn, Pandas, Matplotlib, Seaborn
+* **Libraries:** Scikit-Learn, Pandas, Matplotlib, Seaborn, Numpy
