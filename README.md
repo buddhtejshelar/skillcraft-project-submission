@@ -1,6 +1,6 @@
  # SkillCraft Technology - Data Science Internship
 
-This repository contains my completed tasks for my 1-month virtual data science internship. It showcases my data cleaning, analysis, and visualization skills using Python.
+This repository contains my completed tasks for my 1-month virtual data science internship. It showcases my data cleaning, analysis, and machine learning skills using Python.
 
 ---
 
@@ -16,9 +16,14 @@ This repository contains my completed tasks for my 1-month virtual data science 
 * **Tools Used:** `pandas`, `matplotlib`, `seaborn`
 * **Status:** Completed ✅
 
+### 🌳 Task 03: Decision Tree Classifier for Customer Purchase
+* **Objective:** Built a machine learning Decision Tree Classifier to predict whether a customer would buy a product based on demographic and behavioral data from a Bank Marketing campaign.
+* **Tools Used:** `scikit-learn`, `pandas`, `matplotlib`
+* **Status:** Completed ✅
+
 ---
 
 ## 🛠️ Tech Stack & Libraries
 * **Language:** Python
 * **Environment:** Google Colab
-* **Libraries:** Pandas, Matplotlib, Seaborn
+* **Libraries:** Scikit-Learn, Pandas, Matplotlib, Seaborn
